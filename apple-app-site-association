@@ -6,12 +6,8 @@
             "appID": "3U2YRH5U2T.com.imedzhenar.alean",
             "components": [
                 {
-                    "#": "no_universal_links",
-                    "exclude": true,
-                    "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
-                  },
-                {
-                    "?": "def"
+                    "?": "h",
+                    "?": "id"
                 }
             ]
         }
