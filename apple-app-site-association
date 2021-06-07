@@ -4,7 +4,11 @@
       "details": [
         {
             "appID": "3U2YRH5U2T.com.imedzhenar.alean",
-            "paths": [ "*" ]
+            "components": [
+                {
+                    "?": "def"
+                }
+            ]
         }
       ]
   }
