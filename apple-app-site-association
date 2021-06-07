@@ -3,7 +3,12 @@
       "apps": [],
       "details": [
         {
-            "appID": "3U2YRH5U2T.com.imedzhenar.alean"
+            "appID": "3U2YRH5U2T.com.imedzhenar.alean",
+            "compnents": [
+                {
+                    "?": { "id": "????"}
+                }
+            ]
         }
       ]
   }
