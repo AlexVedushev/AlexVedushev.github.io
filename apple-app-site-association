@@ -3,11 +3,8 @@
       "apps": [],
       "components": [
         {
-            "/": "abc",
-            "?": "def",
-            "#": "*",
-            "comment": "Matches any URL whose path starts with /buy/"
-          }
+            "paths": ["*"]
+        }
       ]
   }
 }
